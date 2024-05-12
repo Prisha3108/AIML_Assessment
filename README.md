@@ -35,12 +35,12 @@ o	Calculated performance metrics including Mean Squared Error (MSE), Root Mean S
 RESULTS
 Model Performance
 After training and evaluating different regression models on the dataset, the following Mean Squared Error (MSE) values were obtained:
-•	Random Forest:
-o	MSE: 0.0134
-•	Linear Regression:
-o	MSE: 1.1456e-08
-•	Gradient Boosting:
-o	MSE: 0.1290
+Random Forest:
+MSE: 0.009496235817708061
+Linear Regression:
+MSE: 2.0051432594564256e-08(almost zero)
+Gradient Boosting:
+MSE:  0.31238480083556425
 
 After comparing the performance of different regression models, Linear Regression stands out as the best-performing model with an extremely low MSE.
 
